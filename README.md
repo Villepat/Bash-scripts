@@ -1,7 +1,7 @@
 # Bash-scripts
 
-##Cloneraw
-###Copying the contents of a git repository and removing .git folder
+## Cloneraw
+### Copying the contents of a git repository and removing .git folder
 How to run:
 cloneraw.sh 'git-URL'
 
